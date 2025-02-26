@@ -1,0 +1,14 @@
+#copyBtn{
+    background-color: hsla(239, 100%, 50%, 0.514);
+    transition: all ease .2s;
+}
+
+#copyBtn:hover{
+    background-color: hsl(253, 100%, 18%);
+    font-size: 20px;
+}
+
+#copyBtn:active{
+    background-color: hsla(243, 94%, 60%, 0.534);
+    font-size: 15px;
+}
